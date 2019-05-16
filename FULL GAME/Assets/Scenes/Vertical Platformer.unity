@@ -12558,7 +12558,7 @@ MonoBehaviour:
   prefabToSpawn: {fileID: 196000, guid: c9ddfe9d025db4b058cfab0c1466019c, type: 3}
   keyToPress: 32
   creationRate: 0.5
-  shootSpeed: 5
+  shootSpeed: 3
   shootDirection: {x: 0, y: -1}
   relativeToRotation: 0
 --- !u!114 &1224930070
